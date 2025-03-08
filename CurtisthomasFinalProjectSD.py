@@ -1,3 +1,7 @@
+#Thomas Curtis
+#3/7/2025
+#software Devolpment
+
 import tkinter as tk
 from tkinter import messagebox, ttk, filedialog
 import json
